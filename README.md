@@ -1,6 +1,5 @@
 # DogHouse-Café
-![alt text][logo]
-[logo]:(https://github.com/OliverXiaoxiong/DogHouse-Caf-/Logo.png "Logo Title Text 1")
+![alt text](https://github.com/OliverXiaoxiong/DogHouse-Caf-/blob/master/Logo.png "Logo Title Text 1")
 
 Executive Summary:
 
