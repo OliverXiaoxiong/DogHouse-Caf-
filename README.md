@@ -1,5 +1,7 @@
 # DogHouse-Café
-![alt text](https://github.com/OliverXiaoxiong/DogHouse-Caf-/Logo.png "Logo Title Text 1")
+![alt text][logo]
+[logo]:(https://github.com/OliverXiaoxiong/DogHouse-Caf-/Logo.png "Logo Title Text 1")
+
 Executive Summary:
 
 Our café, DogHouse Café, is located in Berkeley, California. DogHouse Café has all the basic features other cafés have, which include selling beverages and food. On the other hand, we also sell dog-related goods, such as dog food, mugs with dog logos, and dog tumblers. We offer the opportunity for customers to adopt dogs directly at our café after they interacted with our dogs and found a good fit. However, the adoption fee and the vaccination fee will pass on to our customers, when they decide to adopt dogs. Additionally, we require an hourly entry fee of $10 for our café. Since we are located in a popular area, we have three groups of target customers, which are college students, people looking for dog adoptions, and commuters. Due to size of our business, we take Limited Liability Company (LLC) as our tax structure. This structure benefits us in minimizing tax and allowing us to have unlimited investors. Although our business might have market, health, and financial risks, we can prevent them by taking some precautionary measures.
